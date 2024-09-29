@@ -1,60 +1,21 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YanxinTang/clipboard-online/master/images/clipboard-icon.png" style="display: inline-block; vertical-align: middle;">
-  <h1 style="display: inline-block; vertical-align: middle;">clipboard-online</h1>
+  <img src="/images/clipboard-icon.png" style="display: inline-block; vertical-align: middle;">
+  <h1 style="display: inline-block; vertical-align: middle;">iClipboard-Go It's MyGO!!!!!</h1>
 </div>
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YanxinTang/clipboard-online)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xarth-Mai/iClipboard-Go)
 
 clipboard-online is an application to share cilpboard text between Windows and iOS
-
-## Documentation
-
-【[中文](https://github.com/YanxinTang/clipboard-online/blob/master/README_zh.md)】【[English](https://github.com/YanxinTang/clipboard-online/blob/master/README.md)】
-
-## Download
-
-1. Directly download
-
-    You can download latest release exe from [here](https://github.com/YanxinTang/clipboard-online/releases)
-
-2. From source code(only windows now)
-
-    Before you build, make sure you have installed golang. If not, maybe you need [this](https://golang.org/dl/)
-
-    - `git clone git@github.com:YanxinTang/clipboard-online.git`
-    - `cd clipboard-online`
-    - `go get github.com/akavel/rsrc`
-    - Build
-      - Bash: `./build.sh`
-      - PowerShell：`.\build.ps1`
-    - You can find release bin at `release` directory
 
 ## Usage
 
 ### For iOS users
 
-1. Run `clipboard-online` on your windows
-2. Setup shortcuts on you iPhone/iPad (Open link from safari)
-    - Copy:
-      - iCloud: [https://www.icloud.com/shortcuts/f463a1e431c94c60b8a5c65305eb819f](https://www.icloud.com/shortcuts/f463a1e431c94c60b8a5c65305eb819f)
-      - ![Copy](./images/copy.png)
-    - Paste:
-      - iCloud: [https://www.icloud.com/shortcuts/90e7a2af70df4707a17dece8c263afc5](https://www.icloud.com/shortcuts/90e7a2af70df4707a17dece8c263afc5)
-      - ![Paste](./images/paste.png)
-3. Set ip address and authkey (default is empty string). Reference [https://www.kejiwanjia.com/jiaocheng/zheteng/83030.html](https://www.kejiwanjia.com/jiaocheng/zheteng/83030.html)
 4. Have fun...😊
-
-### For Android users
-
-1. HTTP Shortcuts: [https://meta.appinn.net/t/topic/20322](https://meta.appinn.net/t/topic/20322)
-
-2. Tasker: [https://github.com/YanxinTang/clipboard-online/issues/26](https://github.com/YanxinTang/clipboard-online/issues/26)
-
-Thanks for the hard working by [@xiozf](https://github.com/xiozf), [@Befod](https://github.com/Befod) and someone else contributed for the Android approach!
 
 ## Configuration
 
-`clipboard-online.exe` will create two file which are `config.json` and `log.txt` in the execute path when first running
+`iClipboard-Go` will create two file which are `config.json` and `log.txt` in the execute path when first running
 
 You can make customization by editing `config.json`
 
