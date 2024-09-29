@@ -17,9 +17,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/YanxinTang/clipboard-online/utils"
+	"github.com/Xarth-Mai/iClipboard-Go/utils"
 	"github.com/gin-gonic/gin"
-	"github.com/lxn/walk"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/image/bmp"
 )

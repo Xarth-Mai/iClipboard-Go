@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"github.com/YanxinTang/clipboard-online/utils"
+	"github.com/Xarth-Mai/iClipboard-Go/utils"
 	"github.com/sirupsen/logrus"
 )
 
