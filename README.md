@@ -5,7 +5,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xarth-Mai/iClipboard-Go)
 
-clipboard-online is an application to share cilpboard text between Windows and iOS
+iClipboard-Go is an application to share cilpboard between 💻Linux and 📱iOS
 
 ## Usage
 
